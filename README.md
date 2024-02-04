@@ -11,8 +11,6 @@ Every contribution is appreciated
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Examples](#examples)
-- [Resources](#resources)
-- [License](#license)
 
 ## Introduction
 Assembly language programming offers a deep dive into the fundamentals of computer architecture and low-level programming. This repository serves as a collection of assembly language programs and examples, demonstrating techniques, algorithms, and best practices for different architectures.
@@ -41,10 +39,3 @@ Notable Contributor: LifeHashed
 - Booth Multiplication
 - Arithmetic Operations
 - User Input
-
-## Resources
-
-## License
-=======
-## MIPS Assignments for 4th semester COA lab
-This repository contains MIPS assembly programs of assignments provided in 4th semester subject Computer Organisation and Architecture. Classmates are open to contribute.
