@@ -1,4 +1,3 @@
-Solution
 .data
 prompt_mul1: .asciiz "Multiplicand?: "
 prompt_mul2: .asciiz "Multiplier?: "
