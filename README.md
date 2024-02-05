@@ -32,7 +32,11 @@ I am just a pull request away!!
 
 How to pull request: [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request](#https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-Notable Contributor: LifeHashed
+Primary contributor: adityachoudhury29
+
+Secondary Contributors' list:
+* LifeHashed
+:
 
 ## Examples
 
